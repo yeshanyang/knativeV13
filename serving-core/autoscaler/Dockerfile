@@ -1,0 +1,1 @@
+from image: gcr.io/knative-releases/knative.dev/serving/cmd/autoscaler@sha256:6b77fce9159173ce700cbe8202eb0ab33b2128688baadf34e916b7341889bde0
